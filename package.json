@@ -1,0 +1,23 @@
+{
+  "name": "railway-metro-rms",
+  "private": true,
+  "version": "2.5.0",
+  "description": "Railway & Metro Route Management System — an interactive DSA project (Graph, BFS, DFS, BST, Queue, Deque) built with React, Vite and Tailwind CSS.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^1.77.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@vitejs/plugin-react": "^6.3.0",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.3.8"
+  }
+}
